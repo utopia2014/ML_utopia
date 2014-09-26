@@ -1,6 +1,6 @@
 ML_utopia
 =========
-This is a machine learning basic algorithm set.
+This is a machine learning basic algorithm set,java edition.
 Include some algorithms to complete classification or regression task.
 It is already have decision tree,native bayes,knn,logistic regression,neural network and so on.
 It could be used,but not very mature so far.
